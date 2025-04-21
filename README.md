@@ -1,5 +1,6 @@
 # COVID-19 and Mental Health Data Project
   - The Interactive Visualization Link goes to Leo Wheeler's Project 3 Repo on Github Pages, because I worked with him on this project during this time. It is the same code deployment ready, just on a Github Pages from him.
+  - Link to Recording of Presentation: https://zoom.us/rec/play/cSNbqACApKQ0ZrxXVz6S1wwFCkZWi9TqZQhZdCVtVVEg6Z75AfRboUZ02OmZtp6sESBG6WuDxU8jD9E.D1Dh4rZFr5Olw2Vd
 
 ## Repo Directory
 #### [1. Data](data) - `.csv` files that were used to populate relational database and `.json` files that were used for plotting
